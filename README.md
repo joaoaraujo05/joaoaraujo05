@@ -1,7 +1,7 @@
 # Olá, me chamo João Pedro!
 ## Bem vindo ao meu perfil GitHub 👋
 
-##Hello, Dev!
+## Hello, Dev!
 Tenho 18 anos, sou de Orlândia-SP, uma cidade no interior do estado de São Paulo perto de Ribeirão Preto. Atualmente estou no primeiro semestre de Engenharia de Software e aprendendo bastante também por cursos por fora, principalmente na plataforma da Alura.
 
 ## Ferramentas e Tecnologias

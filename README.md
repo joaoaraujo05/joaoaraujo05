@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
 ## Hello, Dev!
-Tenho 18 anos, sou de Orlândia-SP, uma cidade no interior do estado de São Paulo perto de Ribeirão Preto. Atualmente estou no primeiro semestre de Engenharia de Software e aprendendo bastante também por cursos por fora, principalmente na plataforma da Alura.
+Tenho 18 anos, sou de Orlândia-SP, uma cidade no interior do estado de São Paulo perto de Ribeirão Preto. Atualmente estou no primeiro semestre de Engenharia de Software na Universidade de Ribeirão Preto (UNAERP). Estou me especializando por cursos na plataforma da Alura.
 
 ## Ferramentas e Tecnologias
 
@@ -20,6 +20,7 @@ Tenho 18 anos, sou de Orlândia-SP, uma cidade no interior do estado de São Pau
 <a href="https://www.linkedin.com/in/joaoaraujo05" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+##
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaraujo05&layout=compact&langs_count=7&theme=dracula"/>

@@ -1,18 +1,18 @@
-## 👋​ Olá pessoal, me chamo João Pedro!
+## Olá pessoal, me chamo João Pedro! 👋​ 
 
 - Graduando em Engenharia de Software - UNAERP.
 - Entusiasta de tecnologia e programação.
 - Estou em busca de estágio para crescimento profissional.
 
-## 💻​ Ferramentas e Tecnologias
+## Ferramentas e Tecnologias 💻​ 
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
 
-## 📚​ Estou aprendendo
+## Estou aprendendo 📚​ 
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
 
-## 📫 Contatos
+## Contatos 📫
 
 <div>
 <a href="https://www.instagram.com/joaoaraujo.05/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

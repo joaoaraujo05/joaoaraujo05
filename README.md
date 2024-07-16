@@ -20,13 +20,6 @@
 <a href="https://www.linkedin.com/in/joaoaraujo05" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-##
-<div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoaraujo05&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoaraujo05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
 <!--
 **joaoaraujo05/joaoaraujo05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
